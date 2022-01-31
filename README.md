@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Syed-Usama-Waqas
+- 👀 I’m interested in Mobile Application Development
+- 🌱 I’m currently learning Flutter and Other Native Approuches.
+- 💞️ I’m looking to for a Better opportunity and want to polish my skills.
+- 📫 You can contact me by that email syedusamawaqas@gmail.com or on my phone number +923069057978.
