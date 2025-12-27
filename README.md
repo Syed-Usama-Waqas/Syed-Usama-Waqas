@@ -1,59 +1,83 @@
-Syed Usama Waqas
+# Syed Usama Waqas
 
-Senior Flutter Developer | Cross-Platform Mobile Engineer
+**Senior Flutter Developer | Cross-Platform Mobile Engineer**
 
-I build scalable, production-ready mobile and cross-platform applications using Flutter.
-With 5+ years of experience, I help startups and companies turn ideas into reliable products across iOS, Android, Web, Windows, and macOS.
+I am a Senior Flutter Developer with **5+ years of experience** building scalable, high-quality mobile and cross-platform applications. I specialize in Flutter-based solutions for **iOS, Android, Web, Windows, and macOS**, with strong experience in SaaS, ERP, IoT, and consumer products.
 
-What I Do
+I focus on clean architecture, performance, and delivering production-ready software aligned with business goals.
 
-Build Flutter apps with clean, maintainable architecture
+---
 
-Deliver SaaS, ERP, HRM, IoT, and consumer applications
+## 🔹 What I Do
 
-Integrate Firebase, payments, BLE (IoT), and third-party APIs
+- Develop **Flutter applications** using Clean Architecture and SOLID principles
+- Build **SaaS, ERP, HRM, and IoT-enabled platforms**
+- Integrate **Firebase, payment gateways, BLE (IoT), and REST/GraphQL APIs**
+- Optimize apps for **scalability, performance, and maintainability**
+- Collaborate effectively in **Agile startup and enterprise teams**
 
-Optimize apps for performance, scalability, and UX
+---
 
-Collaborate effectively in Agile startup environments
+## 🛠 Tech Stack
 
-Tech Focus
+**Languages & Frameworks**  
+Flutter (Dart), iOS Native, Android Native, Laravel, PHP
 
-Flutter / Dart
-Bloc · GetX · Provider
-Firebase · REST · GraphQL · WebSockets
-Stripe · BLE (IoT)
-SqfLite · Hive
-Clean Architecture · SOLID
+**State Management**  
+Bloc, GetX, Provider
 
-Also experienced with iOS & Android native and Laravel/PHP.
+**Backend & Cloud**  
+Firebase (Auth, Firestore, Storage, Cloud Functions), REST APIs, GraphQL, WebSockets
 
-Selected Work
+**Local Storage**  
+SqfLite, Hive, Shared Preferences
 
-Global365 — Enterprise SaaS ERP (150+ screens) competing with QuickBooks
+**Payments & Integrations**  
+Stripe, Yigim
 
-APKFlight — APK delivery platform (100K+ downloads)
+**Device & IoT**  
+BLE (IoT), Google Maps, MapBox, OpenStreetMap
 
-Jazz People — HRM system for Jazz
+**Architecture & Practices**  
+Clean Architecture, SOLID, Modular Development, Agile
 
-BizCard — Digital business card platform
+---
 
-Smart Cushion — IoT posture correction app (BLE)
+## 📌 Selected Projects
 
-DukaanSync — Web-based POS for retail & restaurants
+- **Global365** — Enterprise SaaS ERP (150+ screens), QuickBooks competitor  
+- **APKFlight** — APK delivery platform with **100K+ downloads**  
+- **Jazz People** — Human Resource Management system  
+- **BizCard** — Digital business card platform  
+- **Smart Cushion** — BLE-based IoT posture correction system  
+- **DukaanSync** — Web-based POS for retail, pharmacy, and restaurants  
 
-Background
+---
 
-Senior Flutter Developer @ Technupur Pvt Ltd
+## 💼 Experience
 
-Flutter Developer @ GreeLogix
+**Senior Flutter Developer — Technupur Pvt Ltd**  
+*March 2024 – Present*
 
-Google Project Management Certified
+**Flutter Developer — GreeLogix Technology Solution Provider**  
+*Nov 2021 – March 2024*
 
-B.S. Software Engineering
+Freelancing & Part-Time Experience since 2020.
 
-Contact
+---
 
-📧 syedusamawaqas@gmail.com
+## 🎓 Education & Certification
 
-📱 +92-306-905-7978
+- **B.S. Software Engineering** — Riphah International University  
+- **Google Project Management Certificate** — Coursera
+
+---
+
+## 📫 Contact
+
+- **Email:** syedusamawaqas@gmail.com  
+- **Phone:** +92-306-905-7978  
+
+---
+
+⭐ *Open to freelance, contract, and startup collaborations.*
