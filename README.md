@@ -12,7 +12,7 @@ I focus on clean architecture, performance, and delivering production-ready soft
 
 - Develop **Flutter applications** using Clean Architecture and SOLID principles
 - Build **SaaS, ERP, HRM, and IoT-enabled platforms**
-- Integrate **Firebase, payment gateways, BLE (IoT), and REST/GraphQL APIs**
+- Integrate **Firebase, Supabase, payment gateways, BLE (IoT), and REST/GraphQL APIs**
 - Optimize apps for **scalability, performance, and maintainability**
 - Collaborate effectively in **Agile startup and enterprise teams**
 
@@ -21,13 +21,13 @@ I focus on clean architecture, performance, and delivering production-ready soft
 ## 🛠 Tech Stack
 
 **Languages & Frameworks**  
-Flutter (Dart), iOS Native, Android Native, Laravel, PHP
+Flutter (Dart), iOS Native, Android Native
 
 **State Management**  
 Bloc, GetX, Provider
 
 **Backend & Cloud**  
-Firebase (Auth, Firestore, Storage, Cloud Functions), REST APIs, GraphQL, WebSockets
+Firebase (Auth, Firestore, Storage, Cloud Functions), SupaBase, REST APIs, GraphQL, WebSockets
 
 **Local Storage**  
 SqfLite, Hive, Shared Preferences
@@ -45,7 +45,7 @@ Clean Architecture, SOLID, Modular Development, Agile
 
 ## 📌 Selected Projects
 
-- **Global365** — Enterprise SaaS ERP (150+ screens), QuickBooks competitor  
+- **Global365** — Enterprise SaaS ERP (150+ screens) 
 - **APKFlight** — APK delivery platform with **100K+ downloads**  
 - **Jazz People** — Human Resource Management system  
 - **BizCard** — Digital business card platform  
