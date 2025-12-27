@@ -1,49 +1,59 @@
-💡 Generated 1M+ downloads & delivered seamless cross-platform apps that convert.
-Clients often start acquiring paying users within the first 2–4 weeks of launch.
+Syed Usama Waqas
 
-👋 I’m Syed Usama Waqas, a results-driven Mobile Application Developer with 5+ years of experience in building scalable and intuitive hybrid apps using Flutter and FlutterFlow.
+Senior Flutter Developer | Cross-Platform Mobile Engineer
 
-I specialize in crafting responsive, high-performance applications tailored to your business goals. With 30+ completed projects and 4+ years of freelancing success, I deliver apps that don’t just look good—they perform exceptionally.
+I build scalable, production-ready mobile and cross-platform applications using Flutter.
+With 5+ years of experience, I help startups and companies turn ideas into reliable products across iOS, Android, Web, Windows, and macOS.
 
-🚀 Why Work With Me?
-✅ 100% Job Success & Client Satisfaction
-✅ Clean, Scalable & Maintainable Code
-✅ Fast Turnaround & 24/7 Availability
-✅ Strategic Consultation to Launch & Scale
-✅ Full Lifecycle Support: Idea → Design → Development → Launch → Maintenance
+What I Do
 
-✨ Key Expertise:
-🟢 Flutter & FlutterFlow Development
-🟢 Android/iOS App Development (Java/Kotlin/Swift)
-🟢 Push Notifications & Offline Storage
-🟢 Firebase & RESTful API Integration
-🟢 State Management (GetX, Provider, Bloc)
-🟢 In-App Purchases & Payment Gateway Integration
-🟢 Responsive UI/UX (Figma to Flutter)
-🟢 App Store / Play Store Deployment
-🟢 App Optimization & Performance Tuning
-🟢 Bluetooth, BLE & IoT Integration
-🟢 GraphQL, Node.js, PHP, MySQL, MongoDB
-🟢 Background Services, Audio/Video Streaming, Maps, AR/VR Support
+Build Flutter apps with clean, maintainable architecture
 
-🧩 Project Services:
-🔹 Custom App Development – Native & Cross-platform
-🔹 UI/UX Design – From wireframe to pixel-perfect UI
-🔹 API & Backend Integration – Real-time data sync & scalability
-🔹 Maintenance & Optimization – Bug-fixing, performance upgrades
-🔹 Testing & QA – Unit testing, integration testing, and release support
-🔹 CI/CD & Deployment – Automated delivery pipelines and analytics setup
+Deliver SaaS, ERP, HRM, IoT, and consumer applications
 
-📱 Testing On Real Devices:
-iPhone 11 / 13 / 13 Pro / 13 Pro Max
-Samsung A30 / A52 and other modern devices
+Integrate Firebase, payments, BLE (IoT), and third-party APIs
 
-🛠 Tech Stack Snapshot:
-Languages: Dart, Java, Kotlin, Swift, C++, JavaScript
-Frameworks: Flutter, FlutterFlow
-Backend: Node.js, PHP, Laravel, Firebase, MySQL, MongoDB
-Tools: Git, Jenkins, Azure DevOps, Firebase, Figma
-Other: GraphQL, BLE, Push Notifications, Payment Integration, Maps SDK
+Optimize apps for performance, scalability, and UX
 
-🎯 Let’s Bring Your App Idea to Life!
-If you’re looking for a developer who doesn’t just build apps, but creates real value—I’m here to help. Let’s talk about how we can make your product stand out.
+Collaborate effectively in Agile startup environments
+
+Tech Focus
+
+Flutter / Dart
+Bloc · GetX · Provider
+Firebase · REST · GraphQL · WebSockets
+Stripe · BLE (IoT)
+SqfLite · Hive
+Clean Architecture · SOLID
+
+Also experienced with iOS & Android native and Laravel/PHP.
+
+Selected Work
+
+Global365 — Enterprise SaaS ERP (150+ screens) competing with QuickBooks
+
+APKFlight — APK delivery platform (100K+ downloads)
+
+Jazz People — HRM system for Jazz
+
+BizCard — Digital business card platform
+
+Smart Cushion — IoT posture correction app (BLE)
+
+DukaanSync — Web-based POS for retail & restaurants
+
+Background
+
+Senior Flutter Developer @ Technupur Pvt Ltd
+
+Flutter Developer @ GreeLogix
+
+Google Project Management Certified
+
+B.S. Software Engineering
+
+Contact
+
+📧 syedusamawaqas@gmail.com
+
+📱 +92-306-905-7978
