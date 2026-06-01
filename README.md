@@ -45,9 +45,9 @@ Clean Architecture, SOLID, Modular Development, Agile
 
 ## 📌 Selected Projects
 
-- **Global365** — Enterprise SaaS ERP (150+ screens) 
 - **APKFlight** — APK delivery platform with **100K+ downloads**  
-- **Jazz People** — Human Resource Management system  
+- **Jazz People** — Human Resource Management system with **50K+ downloads**
+- **Global365** — Enterprise SaaS ERP (**150+ screens**) 
 - **BizCard** — Digital business card platform  
 - **Smart Cushion** — BLE-based IoT posture correction system  
 - **DukaanSync** — Web-based POS for retail, pharmacy, and restaurants  
